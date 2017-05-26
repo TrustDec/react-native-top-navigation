@@ -1,11 +1,12 @@
 {
   "name": "react-native-top-navigation",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "One for top navigation with react native, which is compatible with iOS and Android",
   "main": "index.js",
   "scripts": {
     "test": "npm run nav"
   },
+  "homepage": "https://github.com/TrustTheBoy/react-native-top-navigation",
   "bugs": {
     "url": "https://github.com/TrustTheBoy/react-native-top-navigation/issues"
   },
@@ -18,6 +19,6 @@
     "react-native",
     "android"
   ],
-  "author": "TrustTheBoy",
+  "author": "trusttheboy",
   "license": "ISC"
 }
